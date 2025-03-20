@@ -1,0 +1,2 @@
+Create a Folder for the Face Recognition Dataset.
+In that folder create folders with the labels of face names and in each label add the photos of the corresponding named person. The photos should be from different angles and uder different lightings so that the model can analyze well about the face of the person.
